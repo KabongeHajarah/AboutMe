@@ -9,7 +9,7 @@ Backend Development: Django, Flask, Node.js
 Database: MySQL, MongoDB
 Version Control: Git, GitHub
 Tools: VS Code, Postman
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabongeHajarah)](https://github.com/anuraghazra/github-readme-stats)
 🌱 Learning Journey:
 I'm constantly expanding my knowledge and exploring new technologies to stay up-to-date with the latest trends in the field of web development. Currently, I'm focusing on honing my skills in Python and JavaScript, as well as deepening my understanding of backend development frameworks.
 
@@ -20,5 +20,4 @@ Email: kabongehajarah@gmail.com
 LinkedIn: Kabonge Hajarah
 
 I'm always open to learning and collaborating on exciting projects. Let's connect and build amazing things together!
-![](https://raw.githubusercontent.com/KabongeHajarah/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/KabongeHajarah/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
