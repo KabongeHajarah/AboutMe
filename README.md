@@ -8,7 +8,7 @@ Frontend Development: HTML, CSS, React.js
 Backend Development: Django, Flask, Node.js
 Database: MySQL, MongoDB
 Version Control: Git, GitHub
-Tools: VS Code, Postman
+Tools: VS Code
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabongeHajarah)](https://github.com/anuraghazra/github-readme-stats)
 
