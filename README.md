@@ -20,6 +20,8 @@ If you have any questions, collaboration ideas, or just want to say hi, feel fre
 
 Email: kabongehajarah@gmail.com
 LinkedIn: Kabonge Hajarah
+Twitter: https://twitter.com/Shabellah3
+[Kabonge's Resume (2).pdf](https://github.com/KabongeHajarah/AboutMe/files/11579862/Kabonge.s.Resume.2.pdf)
 
 I'm always open to learning and collaborating on exciting projects. Let's connect and build amazing things together!
 
