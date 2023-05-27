@@ -1,4 +1,5 @@
 Hi there, I'm Kabonge Hajarah! 👋
+![code](https://github.com/KabongeHajarah/KabongeHajarah/assets/124152283/bf6bd497-f702-442c-9e7f-3d54c8187c73)
 
 I'm a passionate full stack developer currently studying Python and JavaScript. I love building innovative and impactful web applications that solve real-world problems. My goal is to create user-friendly and efficient software solutions that enhance the user experience.
 
