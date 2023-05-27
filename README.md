@@ -1,4 +1,4 @@
-                       # Hi there, I'm Kabonge Hajarah! 👋
+                       # **Hi there, I'm Kabonge Hajarah! 👋**
 
 # **Your Heading**
 
