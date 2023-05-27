@@ -1,4 +1,4 @@
-                       ## Hi there, I'm Kabonge Hajarah! 👋
+                       # Hi there, I'm Kabonge Hajarah! 👋
 
 
 ![code](https://github.com/KabongeHajarah/KabongeHajarah/assets/124152283/bf6bd497-f702-442c-9e7f-3d54c8187c73)
