@@ -25,9 +25,13 @@ I'm constantly expanding my knowledge and exploring new technologies to stay up-
 If you have any questions, collaboration ideas, or just want to say hi, feel free to reach out to me through the following channels:
 
 *Email: kabongehajarah@gmail.com
+
 *LinkedIn: Kabonge Hajarah
+
 *Twitter: https://twitter.com/Shabellah3
+
 *Github:https://github.com/KabongeHajarah
+
 *RESUME:[Kabonge's Resume (2).pdf](https://github.com/KabongeHajarah/AboutMe/files/11579862/Kabonge.s.Resume.2.pdf)
 
 I'm always open to learning and collaborating on exciting projects. Let's connect and build amazing things together!
