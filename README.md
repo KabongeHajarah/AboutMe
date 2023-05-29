@@ -13,11 +13,7 @@ Database: MySQL, MongoDB
 Version Control: Git, GitHub
 Tools: VS Code
 
-
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,django,git,github,mongodb,nextjs,react,figma)](https://skillicons.dev)
-
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabongeHajarah)](https://github.com/anuraghazra/github-readme-stats)
