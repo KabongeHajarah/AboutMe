@@ -24,7 +24,7 @@ If you have any questions, collaboration ideas, or just want to say hi, feel fre
 
 #### *Email: kabongehajarah@gmail.com
 
-#### *LinkedIn: Kabonge Hajarah
+#### *LinkedIn: https://www.linkedin.com/in/kabonge-hajarah/
 
 #### *Twitter: https://twitter.com/Shabellah3
 
