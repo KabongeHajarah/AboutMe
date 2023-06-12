@@ -7,7 +7,7 @@ I'm a passionate full stack developer currently studying Python and JavaScript. 
 ## 💻Technologies and Skills:
 ### Languages: Python, JavaScript
 ### Frontend Development: HTML, CSS, React.js
-### Backend Development: Django, Flask, Node.js
+#### Backend Development: Django, Flask, Node.js
 Database: MySQL, MongoDB
 Version Control: Git, GitHub
 Tools: VS Code
