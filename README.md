@@ -30,7 +30,7 @@ If you have any questions, collaboration ideas, or just want to say hi, feel fre
 
 #### *Github:https://github.com/KabongeHajarah
 
-#### *RESUME:[*RESUME:[Kabonge Hajarah's Resume(Wb)](https://drive.google.com/file:///C:/Users/User/Downloads/Kabonge%20Hajarah's%20Resume(Wb).pdf)*
+#### *RESUME:[*RESUME:[Kabonge Hajarah's Resume(Wb)](https://drive.google.com/https:/drive/my-drive)*
 
 I'm always open to learning and collaborating on exciting projects. Let's connect and build amazing things together!
 
